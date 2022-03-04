@@ -1,0 +1,51 @@
+.solution {
+  margin-top: 66px;
+  position: relative;
+  text-align: center;
+}
+.mini__text {
+  margin: 0;
+  margin-bottom: 4px;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #0057ff;
+}
+.solution__title {
+  width: 550px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.solution__text{
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 700px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #000000;
+}
+.triangle__img{
+    position: absolute;
+    right: 80px;
+    top: 530px;
+}
+.more__span{
+    margin-top: 40px;
+}

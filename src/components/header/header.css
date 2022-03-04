@@ -1,0 +1,59 @@
+.header {
+  margin-top: 61px;
+  margin-bottom: 40px;
+}
+.header__inner {
+  display: flex;
+  align-items: center;
+}
+.header__title {
+  margin: 0;
+  margin-bottom: 50px;
+  width: 500px;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 56px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.header__text {
+  margin-bottom: 30px;
+  max-width: 584px;
+  width: 100%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #000000;
+}
+.header__inner {
+  display: flex;
+  align-items: center;
+}
+.header_inner__img {
+  margin-right: 20px;
+}
+.name__women {
+  margin: 0;
+  margin-bottom: 10px;
+}
+.start__btn {
+  margin-top: 40px;
+  padding: 14px 40px;
+  background: #ffa332;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+

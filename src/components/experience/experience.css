@@ -1,0 +1,158 @@
+.experience {
+  margin-top: 150px;
+  margin-bottom: 100px;
+  position: relative;
+}
+
+.exper__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.exper__left {
+  max-width: 455px;
+  width: 100%;
+}
+
+.exper__title {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  line-height: 50px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.exper__text {
+  margin-top: 50px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 26px;
+  color: #000000;
+}
+.exper__flex {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.mini__title {
+  margin-top: 28px;
+  margin-bottom: 16px;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.mini__exper__text {
+  margin-bottom: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.exper__right {
+  max-width: 540px;
+  width: 100%;
+  background: #ffffff;
+  box-shadow: 0px 8px 28px rgba(83, 83, 83, 0.15);
+  border-radius: 15px;
+}
+.card__title {
+  max-width: 325px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+}
+.card__text {
+  padding-bottom: 20px;
+  margin: 0 auto;
+  max-width: 460px;
+  width: 100%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #000000;
+}
+.card__flex {
+  display: flex;
+}
+.card__form {
+  text-align: center;
+  margin: 0 auto;
+}
+.left__input,
+.right__input {
+  margin-left: 18px;
+  padding: 10px 46px 10px 23px;
+  outline: none;
+  border: none;
+  background: #f8f8f8;
+  border: 1px solid #e7e7e7;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+input::placeholder {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 60px;
+  text-align: center;
+  color: #000000;
+}
+.big__input {
+  margin: 32px 0;
+  padding: 10px 310px 10px 23px;
+  outline: none;
+  border: none;
+  background: #f8f8f8;
+  border: 1px solid #e7e7e7;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+textarea {
+  margin-bottom: 30px;
+  padding: 0px 310px 90px 23px;
+  overflow: hidden;
+  background: #f8f8f8;
+  border: 1px solid #e7e7e7;
+  box-sizing: border-box;
+  border-radius: 6px;
+  resize:none;
+}
+textarea::placeholder {
+ 
+ 
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 60px;
+  text-align: center;
+  color: #000000;
+}
+.exper__button{
+ 
+  margin:20px;
+  padding: 10px 195px;
+}

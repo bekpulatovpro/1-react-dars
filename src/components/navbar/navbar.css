@@ -1,0 +1,41 @@
+.navbar__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav__list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.nav__img {
+  margin-right: 60px;
+}
+.nav__item + .nav__item {
+  margin-right: 40px;
+}
+.nav__link {
+  text-decoration: none;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 26px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.nav__button {
+  outline: none;
+  border: none;
+  padding: 14px 40px;
+  background: #0057ff;
+  border-radius: 30px;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
